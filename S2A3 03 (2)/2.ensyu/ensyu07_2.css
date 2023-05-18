@@ -1,0 +1,12 @@
+table{
+  border-collapse: separate;
+  font-size: 1.2rem;
+}
+th{
+  background-color: gray;
+  padding: 10px;
+}
+td{
+  padding: 10px;
+  background-color: blue;
+}
